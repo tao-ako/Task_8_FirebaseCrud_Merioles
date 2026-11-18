@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48331089006",
+    "project_id": "activity8-merioles",
+    "storage_bucket": "activity8-merioles.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48331089006:android:cfa65f3ad0694a4422327f",
+        "android_client_info": {
+          "package_name": "com.example.crud_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD51uItjDX223bYve23iENpQ83axxZ7MbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
